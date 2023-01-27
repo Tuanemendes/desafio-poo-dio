@@ -17,7 +17,7 @@
 
 <p>
 
-Desafio apresentado pela tech teache Camila consite em colocar em pratica conceitos do paradigma orientado a objetos com seu 4 pilares <strong>ABSTRAÇÂO, ENCAPSULAEMENTO, HERANÇA E POLIMORFISMO.</strong>
+Desafio apresentado pela tech teacher Camila consite em colocar em prática conceitos do paradigma orientado a objetos com seu 4 pilares <strong>ABSTRAÇÂO, ENCAPSULAEMENTO, HERANÇA E POLIMORFISMO.</strong>
 Foi realizado  a criação de pastas para melhor gerenciaento do progeto a pasta DOMINIO onde recebeu a criação de 5 classes sendo elas :
 Conteudo, Curso, Mentoria, Bootcamp e Dev
 
@@ -43,7 +43,7 @@ Conteudo, Curso, Mentoria, Bootcamp e Dev
 <strong>Encapsulamento:</strong> O encapsulamento refere-se ao agrupamento de dados usando mecanismos ou métodos que manipulam os dados ou restringem o acesso direto a alguns dados , como os componente de um objeto.
 
 
-<strong>Abstração:</strong>  Esconder os detalhes da implementação dentro algo, Encontrar algo que seja em comum no código e ooferecer um objeto generico que possa servir em varios locais.
+<strong>Abstração:</strong>  Esconder os detalhes da implementação dentro algo, Encontrar algo que seja em comum no código e oferecer um objeto genérico que possa servir em vários locais.
 
 <strong>Herança:</strong> Permite que outras classe possam ter os mesmas propriedades de uma outra classe chamada de mãe ou pai.Tem o principal  benéficio da reutilização.
 
