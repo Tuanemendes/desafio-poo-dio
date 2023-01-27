@@ -2,12 +2,11 @@ package br.com.dio.desafio.dominio;
 
 public abstract class Conteudo {
 
-      protected static final  Double XP_PADRAO = 10d;
-
+      protected static final  double XP_PADRAO = 10d;
       private String titulo;
       private String descricao;
 
-      public abstract Double calularXp();
+      public abstract double calularXp();
 
     public String getTitulo() {
         return titulo;
